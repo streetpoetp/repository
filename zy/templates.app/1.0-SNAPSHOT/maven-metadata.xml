@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>zy</groupId>
-  <artifactId>lib.common</artifactId>
+  <artifactId>templates.app</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180927.031021</timestamp>
+      <timestamp>20180927.031030</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20180927031021</lastUpdated>
+    <lastUpdated>20180927031030</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20180927.031021-1</value>
-        <updated>20180927031021</updated>
+        <value>1.0-20180927.031030-1</value>
+        <updated>20180927031030</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20180927.031021-1</value>
-        <updated>20180927031021</updated>
+        <value>1.0-20180927.031030-1</value>
+        <updated>20180927031030</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
