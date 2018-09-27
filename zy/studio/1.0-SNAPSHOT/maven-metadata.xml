@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>zy</groupId>
-  <artifactId>lib</artifactId>
+  <artifactId>studio</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20180927.031119</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20180927.054845</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20180927031119</lastUpdated>
+    <lastUpdated>20180927054845</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20180927.031119-2</value>
-        <updated>20180927031119</updated>
+        <value>1.0-20180927.054845-1</value>
+        <updated>20180927054845</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
