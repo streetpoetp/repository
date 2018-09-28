@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>zy</groupId>
-  <artifactId>shared-resources</artifactId>
+  <artifactId>maven-template-app</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180928025242</lastUpdated>
+    <lastUpdated>20180928025307</lastUpdated>
   </versioning>
 </metadata>
