@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>zy</groupId>
-  <artifactId>maven-template-app</artifactId>
+  <artifactId>studio</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20180927083018</lastUpdated>
+    <lastUpdated>20180928025203</lastUpdated>
   </versioning>
 </metadata>
