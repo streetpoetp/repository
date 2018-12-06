@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>zy</groupId>
-  <artifactId>studio</artifactId>
+  <artifactId>studio.lib</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181206063651</lastUpdated>
+    <lastUpdated>20181206063702</lastUpdated>
   </versioning>
 </metadata>
