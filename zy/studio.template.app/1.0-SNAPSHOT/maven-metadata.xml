@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>zy</groupId>
-  <artifactId>studio.template.app2</artifactId>
+  <artifactId>studio.template.app</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20181206.032048</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20181206.032516</timestamp>
+      <buildNumber>9</buildNumber>
     </snapshot>
-    <lastUpdated>20181206032048</lastUpdated>
+    <lastUpdated>20181206032516</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20181206.032048-1</value>
-        <updated>20181206032048</updated>
+        <value>1.0-20181206.032516-9</value>
+        <updated>20181206032516</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

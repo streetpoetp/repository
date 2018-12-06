@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>zy</groupId>
-    <artifactId>studio.template.app2</artifactId>
+    <artifactId>studio.template.app</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
