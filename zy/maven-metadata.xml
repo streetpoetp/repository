@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>sudio.plugin.cli</name>
+      <prefix>sudio..cli</prefix>
+      <artifactId>sudio.plugin.cli</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
