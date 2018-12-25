@@ -3,11 +3,11 @@
   <groupId>zy</groupId>
   <artifactId>sudio.plugin.cli</artifactId>
   <versioning>
-    <latest>1.0.1-SNAPSHOT</latest>
+    <latest>1.0-SNAPSHOT</latest>
     <versions>
       <version>1.0-SNAPSHOT</version>
       <version>1.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20181225091640</lastUpdated>
+    <lastUpdated>20181225091933</lastUpdated>
   </versioning>
 </metadata>
