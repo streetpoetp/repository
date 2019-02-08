@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>zy</groupId>
-  <artifactId>studio.lib</artifactId>
+  <artifactId>studio.resources</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190208.100222</timestamp>
+      <timestamp>20190208.100234</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190208100222</lastUpdated>
+    <lastUpdated>20190208100234</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20190208.100222-1</value>
-        <updated>20190208100222</updated>
+        <value>1.0-20190208.100234-1</value>
+        <updated>20190208100234</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20190208.100222-1</value>
-        <updated>20190208100222</updated>
+        <value>1.0-20190208.100234-1</value>
+        <updated>20190208100234</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
