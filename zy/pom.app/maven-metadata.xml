@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>zy</groupId>
-  <artifactId>maven.plugin.properties</artifactId>
+  <artifactId>pom.app</artifactId>
   <versioning>
-    <latest>1.0-SNAPSHOT</latest>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190327033339</lastUpdated>
+    <lastUpdated>20190327033402</lastUpdated>
   </versioning>
 </metadata>
