@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>zy</groupId>
-  <artifactId>maven.plugin.testcase</artifactId>
+  <artifactId>maven.plugin.properties</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190327.033316</timestamp>
+      <timestamp>20190327.033338</timestamp>
       <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20190327033316</lastUpdated>
+    <lastUpdated>20190327033338</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20190327.033316-2</value>
-        <updated>20190327033316</updated>
+        <value>1.0-20190327.033338-2</value>
+        <updated>20190327033338</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20190327.033316-2</value>
-        <updated>20190327033316</updated>
+        <value>1.0-20190327.033338-2</value>
+        <updated>20190327033338</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
