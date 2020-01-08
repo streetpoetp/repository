@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>zy</groupId>
-  <artifactId>maven-testcase</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <artifactId>maven-plugin-excel</artifactId>
+  <version>1.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20200108.090533</timestamp>
-      <buildNumber>3</buildNumber>
+      <timestamp>20200108.090553</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
-    <lastUpdated>20200108090533</lastUpdated>
+    <lastUpdated>20200108090553</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20200108.090533-3</value>
-        <updated>20200108090533</updated>
+        <value>1.1-20200108.090553-2</value>
+        <updated>20200108090553</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20200108.090533-3</value>
-        <updated>20200108090533</updated>
+        <value>1.1-20200108.090553-2</value>
+        <updated>20200108090553</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
