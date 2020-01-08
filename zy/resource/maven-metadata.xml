@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>zy</groupId>
-  <artifactId>processor-debug</artifactId>
+  <artifactId>resource</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200108090649</lastUpdated>
+    <lastUpdated>20200108090704</lastUpdated>
   </versioning>
 </metadata>
