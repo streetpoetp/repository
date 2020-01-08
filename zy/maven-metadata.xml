@@ -2,9 +2,9 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>maven-plugin-message</name>
-      <prefix>message</prefix>
-      <artifactId>maven-plugin-message</artifactId>
+      <name>maven-plugin-properties</name>
+      <prefix>properties</prefix>
+      <artifactId>maven-plugin-properties</artifactId>
     </plugin>
   </plugins>
 </metadata>

@@ -8,7 +8,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>maven-plugin-message</artifactId>
+    <groupId>zy</groupId>
+    <artifactId>maven-plugin-properties</artifactId>
     <packaging>maven-plugin</packaging>
     <version>1.0-SNAPSHOT</version>
 
@@ -68,6 +69,7 @@
             <version>${maven.version}</version>
             <scope>provided</scope>
         </dependency>
+        <!--Test Dependencies-->
         <dependency>
             <groupId>zy</groupId>
             <artifactId>maven-testcase</artifactId>
@@ -79,35 +81,6 @@
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
             <version>2.3.28</version>
-        </dependency>
-        <!--Test Dependencies-->
-        <dependency>
-            <groupId>zy</groupId>
-            <artifactId>maven-testcase</artifactId>
-            <version>1.0-SNAPSHOT</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>zy</groupId>
-            <artifactId>common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/com.google.protobuf/protobuf-java -->
-        <dependency>
-            <groupId>com.google.protobuf</groupId>
-            <artifactId>protobuf-java</artifactId>
-            <version>2.6.1</version>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
-        <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-all</artifactId>
-            <version>4.1.11.Final</version>
-        </dependency>
-        <dependency>
-            <groupId>com.squareup</groupId>
-            <artifactId>protoparser</artifactId>
-            <version>4.0.3</version>
         </dependency>
     </dependencies>
 </project>
