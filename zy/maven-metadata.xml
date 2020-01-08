@@ -2,9 +2,9 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>maven-plugin-message</name>
-      <prefix>message</prefix>
-      <artifactId>maven-plugin-message</artifactId>
+      <name>maven-plugin-excel</name>
+      <prefix>excel</prefix>
+      <artifactId>maven-plugin-excel</artifactId>
     </plugin>
   </plugins>
 </metadata>
